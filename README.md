@@ -1,5 +1,5 @@
 > ### &emsp; &emsp; greetings programs ▷
-> ![\](pnd.png)
+> ![](pnd.png)
 
 ------
 
@@ -11,3 +11,5 @@
 > &emsp; &emsp; &emsp; just living in the database ▷
 > ###### I am a frowning little frog learning to code ▷   
 > &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ***ribbit ▷***
+
+------
