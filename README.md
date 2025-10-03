@@ -1,5 +1,5 @@
 > ### &emsp; &emsp; greetings programs ▷
-> ![](pnd.png)
+> ![\](pnd.png)
 
 ------
 
