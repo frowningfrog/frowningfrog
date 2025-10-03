@@ -1,4 +1,5 @@
 > ### &emsp; &emsp; greetings programs ▷
+> ![pond](pnd.png)
 
 ------
 
@@ -7,6 +8,6 @@
 
 ------
 
-> &emsp; &emsp; &emsp; living in the database ▷
-> ###### I am a frowning little frog learning to code. ▷   
+> &emsp; &emsp; &emsp; just living in the database ▷
+> ###### I am a frowning little frog learning to code ▷   
 > &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ***ribbit ▷***
