@@ -8,7 +8,7 @@
 
 ------
 
-> &emsp; &emsp; ▷ just living in the database ▷
+> &emsp; &ensp; ▷ just living in the database ▷
 > ###### ▷ I am a frowning lil frog learning to code ▷   
 > &emsp; &emsp; &emsp; &emsp; &emsp; ***▷ ribbit ▷***
 
