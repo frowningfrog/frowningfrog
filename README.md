@@ -1,5 +1,5 @@
 > ### &emsp; &emsp; greetings programs ▷
-> ![pond](pnd.png)
+> <img width="2048" height="595" alt="pnd" src="https://github.com/user-attachments/assets/7fba12f4-4701-44f8-b574-2dd4a7836fec" />
 
 ------
 
