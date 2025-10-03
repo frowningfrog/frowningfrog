@@ -10,8 +10,8 @@
 
 > &emsp; &emsp; ▷ just living in the database ▷
 > ###### ▷ I am a frowning lil frog learning to code ▷   
-> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ***▷ ribbit ▷***
+> &emsp; &emsp; &emsp; &emsp; &emsp; ***▷ ribbit ▷***
 
 ------
 
-> ###### &emsp; &emsp; ▷ end of line ▷
+> ###### &emsp; &emsp; &emsp; ▷ end of line ▷
