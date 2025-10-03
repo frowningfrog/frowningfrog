@@ -1,4 +1,4 @@
-> ### &emsp; &emsp; ▷ greetings programs ▷
+> ### &emsp; ▷ greetings programs ▷
 > ![](pnd.png)
 
 ------
@@ -14,4 +14,4 @@
 
 ------
 
-> ###### &emsp; &emsp; &emsp; &emsp; ▷ end of line ▷
+> ###### &emsp; &emsp; &emsp; &emsp; &emsp; ▷ end of line ▷
