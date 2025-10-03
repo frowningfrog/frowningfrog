@@ -9,9 +9,9 @@
 ------
 
 > &emsp; &emsp; ▷ just living in the database ▷
-> ###### ▷ I am a frowning little frog learning to code ▷   
+> ###### ▷ I am a frowning lil frog learning to code ▷   
 > &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ***▷ ribbit ▷***
 
 ------
 
-###### ▷ end of line ▷
+> ###### &emsp; &emsp; ▷ end of line ▷
