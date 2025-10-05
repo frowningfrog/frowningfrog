@@ -1,17 +1,19 @@
-> ### &emsp; ▷ greetings programs ▷
-> [![](pnd.png)](https://github.com/frowningfrog)
+<h3 align="center">▷ greetings programs ▷</h3>
+
+[![](pnd.png)](https://github.com/frowningfrog)
 
 ------
 
-> &emsp; &emsp; &emsp; &emsp; ▷ some badges ▷
+<div align="center">▷ some badges ▷</div>
+
 [![view Holopin profile](https://holopin.me/frowningfrog)](https://holopin.io/@frowningfrog)
 
 ------
 
-> &emsp; &ensp; ▷ just living in the database ▷
-> ###### ▷ I am a frowning lil frog learning to code ▷   
-> &emsp; &emsp; &emsp; &emsp; &emsp; ***▷ ribbit ▷***
+<div align="center">▷ just living in the database ▷</div>
+<h6 align="center">▷ I am a frowning lil frog learning to code ▷</h6>   
+<div align="center"><em><b>▷ ribbit ▷</b></em></div>
 
 ------
 
-> ###### &emsp; &emsp; &emsp; &emsp; &emsp; ▷ end of line ▷
+<h6 align="center">▷ end of line ▷</h6>
